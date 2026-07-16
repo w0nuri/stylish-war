@@ -1,12 +1,11 @@
-/* ==Userstyle==
 
-@name        Ракушкораллы
-@namespace   github.com/w0nuri/stylish-war/
-@version     0.1.0
-@description Смена изображений ракушек и кораллов на версии с подписанными эффектами
-@author      Нури
-
-==Userstyle== */
+/* ==UserStyle==
+@name         Ракушкораллы
+@version      0.0.1
+@namespace    github.com/w0nuri/stylish-war
+@description  Смена изображений ракушек и кораллов на версии с подписанными эффектами
+@author       Нежность Пушицы (1678069)
+==/UserStyle== */
 
 @-moz-document url-prefix("https://catwar.net/cw3/"), url-prefix("https://catwar.su/cw3/") {
 
