@@ -1,7 +1,47 @@
+/* ==Userstyle==
+
+@name        Ракушкораллы
+@namespace   github.com/w0nuri/stylish-war/
+@version     0.1.0
+@description Смена изображений ракушек и кораллов на версии с подписанными эффектами
+@author      Нури
+
+==Userstyle== */
+
 @-moz-document url-prefix("https://catwar.net/cw3/"), url-prefix("https://catwar.su/cw3/") {
 
-/*Морская Вселенная*/
+/*Озерная Вселенная*/
+li img[src="things/3994.png"],
+li .exchange img[src="things/3994.png"],
+.itemInMouth img[src="things/3994.png"] {
+    content: url('https://www.dropbox.com/scl/fi/0oy1fbkk3f5ipzfe9gq3y/3994.png?rlkey=dkbfuqgx7253r5syf6tb2ejtl&st=zlz3dmhz&dl=1');
+}
 
+li img[src="things/3995.png"],
+li .exchange img[src="things/3995.png"],
+.itemInMouth img[src="things/3995.png"] {
+    content: url('https://www.dropbox.com/scl/fi/ojhe3sdkhrxw8ucc9jewk/3995.png?rlkey=whx2klym2h0edyjfirmdhuzv4&st=6w84gvwy&dl=1');
+}
+
+li img[src="things/3997.png"],
+li .exchange img[src="things/3997.png"],
+.itemInMouth img[src="things/3997.png"] {
+    content: url('https://www.dropbox.com/scl/fi/waz82r1ia0p104f981870/3997.png?rlkey=1yelavshsyb1qn6i4cg0hzwsq&st=cayfcbdd&dl=1');
+}
+
+li img[src="things/3998.png"],
+li .exchange img[src="things/3998.png"],
+.itemInMouth img[src="things/3998.png"] {
+    content: url('https://www.dropbox.com/scl/fi/0hv9ycioh1w01jva2q3a5/3998.png?rlkey=vgnjkhdytgd80qsc6pdd05d2y&st=z2blv06s&dl=1');
+}
+
+li img[src="things/3999.png"],
+li .exchange img[src="things/3999.png"],
+.itemInMouth img[src="things/3999.png"] {
+    content: url('https://www.dropbox.com/scl/fi/ojjpsxgv2cspyyl0vpmfs/3999.png?rlkey=ii5u3lvst8xi0ofuzm6ku7fwz&st=e5sodevu&dl=1');
+}
+
+/*Морская Вселенная*/
 li img[src="things/4001.png"],
 li .exchange img[src="things/4001.png"],
 .itemInMouth img[src="things/4001.png"] {
