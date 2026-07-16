@@ -1,12 +1,9 @@
-/* ==Userstyle==
-
-@name        Окрас Правосудия (1669874)
-@namespace   github.com/w0nuri/stylish-war/
-@version     0.1.0
-@description Смена окраса Правосудия (1669874)
-@author      Нури
-
-==Userstyle== */
+/* ==UserStyle==
+@name         Окрас Правосудия (1669874)
+@version      0.0.1
+@description  Смена окраса Правосудия (1669874)
+@author       Правосудия (1669874)
+==/UserStyle== */
 
 @-moz-document url-prefix("https://catwar.net/cw3/"), url-prefix("https://catwar.su/cw3/") {
 div[style*="954d465d652fba86.png"] {
