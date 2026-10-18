@@ -1,0 +1,29 @@
+/* ==UserStyle==
+@name         Ивент
+@version      0.0.1
+@namespace    github.com/w0nuri/stylish-war
+@description  эм
+@author       Нежность Пушицы (1678069)
+==/UserStyle== */
+
+@-moz-document url-prefix("https://catwar.net/cw3/"), url-prefix("https://catwar.su/cw3/") {
+
+/*Озерная Вселенная*/
+li img[src="things/18610.png"],
+li .exchange img[src="things/18610.png"],
+.itemInMouth img[src="things/18610.png"] {
+    content: url('https://github.com/w0nuri/stylish-war/blob/main/event/18610.png?raw=true');
+}
+
+li img[src="things/18607.png"],
+li .exchange img[src="things/18607.png"],
+.itemInMouth img[src="things/18607.png"] {
+    content: url('https://github.com/w0nuri/stylish-war/blob/main/event/18607.png?raw=true');
+}
+
+li img[src="things/18612.png"],
+li .exchange img[src="things/18612.png"],
+.itemInMouth img[src="things/18612.png"] {
+    content: url('https://github.com/w0nuri/stylish-war/blob/main/event/18612.png?raw=true');
+}
+}
