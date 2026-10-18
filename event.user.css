@@ -43,14 +43,14 @@ li .exchange img[src="things/18601.png"],
     content: url('https://github.com/w0nuri/stylish-war/blob/main/event/18601.png?raw=true');
 }
 
-
-/* ЖЕЛТЫЕ */
 li img[src="things/18605.png"],
 li .exchange img[src="things/18605.png"],
 .itemInMouth img[src="things/18605.png"] {
     content: url('https://github.com/w0nuri/stylish-war/blob/main/event/18605.png?raw=true');
 }
 
+
+/* ЖЕЛТЫЕ */
 li img[src="things/18185.png"],
 li .exchange img[src="things/18185.png"],
 .itemInMouth img[src="things/18185.png"] {
