@@ -9,6 +9,8 @@
 
 @-moz-document url-prefix("https://catwar.net/cw3/"), url-prefix("https://catwar.su/cw3/") {
 
+
+/* СИНИЕ */
 li img[src="things/18610.png"],
 li .exchange img[src="things/18610.png"],
 .itemInMouth img[src="things/18610.png"] {
@@ -27,6 +29,8 @@ li .exchange img[src="things/18612.png"],
     content: url('https://github.com/w0nuri/stylish-war/blob/main/event/18612.png?raw=true');
 }
 
+
+/* ЧЕРНЫЕ */
 li img[src="things/18599.png"],
 li .exchange img[src="things/18599.png"],
 .itemInMouth img[src="things/18599.png"] {
@@ -39,6 +43,8 @@ li .exchange img[src="things/18601.png"],
     content: url('https://github.com/w0nuri/stylish-war/blob/main/event/18601.png?raw=true');
 }
 
+
+/* ЖЕЛТЫЕ */
 li img[src="things/18605.png"],
 li .exchange img[src="things/18605.png"],
 .itemInMouth img[src="things/18605.png"] {
