@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name         Ивент
-@version      0.0.2
+@version      0.0.3
 @namespace    github.com/w0nuri/stylish-war
 @description  Рефепты фигурок! Добавлены: синие, черные, желтые
 @updateURL    https://github.com/w0nuri/stylish-war/raw/refs/heads/main/event.user.css
@@ -43,5 +43,23 @@ li img[src="things/18605.png"],
 li .exchange img[src="things/18605.png"],
 .itemInMouth img[src="things/18605.png"] {
     content: url('https://github.com/w0nuri/stylish-war/blob/main/event/18605.png?raw=true');
+}
+
+li img[src="things/18185.png"],
+li .exchange img[src="things/18185.png"],
+.itemInMouth img[src="things/18185.png"] {
+    content: url('https://github.com/w0nuri/stylish-war/blob/main/event/18185.png?raw=true');
+}
+
+li img[src="things/18186.png"],
+li .exchange img[src="things/18186.png"],
+.itemInMouth img[src="things/18186.png"] {
+    content: url('https://github.com/w0nuri/stylish-war/blob/main/event/18186.png?raw=true');
+}
+
+li img[src="things/18189.png"],
+li .exchange img[src="things/18189.png"],
+.itemInMouth img[src="things/18189.png"] {
+    content: url('https://github.com/w0nuri/stylish-war/blob/main/event/18189.png?raw=true');
 }
 }
